@@ -1,0 +1,35 @@
+body {
+  font-family: monospace;
+  background-color: #0d0d0d;
+  color: #e0e0e0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.hidden {
+  display: none;
+}
+
+#login, #content {
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  background: #111;
+  color: #fff;
+  border: 1px solid #444;
+}
+
+button {
+  padding: 8px 12px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+a {
+  color: #8aff80;
+  text-decoration: none;
+}
