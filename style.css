@@ -1,0 +1,17 @@
+.fila-opciones {
+    display: flex;
+    gap: 15px; 
+}
+
+.boton {
+    background-color: #007BFF; 
+    color: white; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-family: Arial, sans-serif;
+}
+
+.boton:hover {
+    background-color: #0056b3;
+}
